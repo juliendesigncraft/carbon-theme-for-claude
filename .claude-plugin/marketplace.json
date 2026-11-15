@@ -1,0 +1,5 @@
+{
+  "name": "carbon-theme-for-claude",
+  "owner": { "name": "juliendesigncraft" },
+  "plugins": [{ "name": "spazio-tema", "source": "./", "description": "Carbon theme for the Claude app: dark graphite, a plain light mode, and a pixel ship over a pixel landscape." }]
+}
